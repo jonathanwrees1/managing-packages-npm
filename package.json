@@ -3,7 +3,7 @@
 	"description": "A project that does something awesome",
 	
 	"author": "Jonathan Rees",
-	"license": "MIT",
+	"license": "ExampleLicense",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
